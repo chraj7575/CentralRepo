@@ -68,3 +68,13 @@ jenkins --version
 cd .jenkins
 ls
 git status
+git add .
+git status
+git commit -m "my first commit"
+git config --global user.name "Your Name"
+git commit -m "my first commit"
+git log
+git config --global user.name "Your Name"
+git remote add origin https://github.com/chraj7575/CentralRepo.git
+git push origin master
+git status
