@@ -78,3 +78,20 @@ git config --global user.name "Your Name"
 git remote add origin https://github.com/chraj7575/CentralRepo.git
 git push origin master
 git status
+git add --all
+git status
+git commit -m "first commigt"
+git branch -v
+git push origin master
+git checkout branch dev
+git branch -v
+git checkpout
+git checkout branch
+git branch dev
+git branch -v
+git checkout branch dev
+git branch -v
+git checkout dev
+git branch -v
+git commit -m "first commit"
+git status
