@@ -1,136 +1,136 @@
-01/04/20 02:16:07 Xvnc version TightVNC-1.3.10
-01/04/20 02:16:07 Copyright (C) 2000-2009 TightVNC Group
-01/04/20 02:16:07 Copyright (C) 1999 AT&T Laboratories Cambridge
-01/04/20 02:16:07 All Rights Reserved.
-01/04/20 02:16:07 See http://www.tightvnc.com/ for information on TightVNC
-01/04/20 02:16:07 Desktop name 'X' (sairamaraju2c.mylabserver.com:1)
-01/04/20 02:16:07 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
-01/04/20 02:16:07 Listening for VNC connections on TCP port 5901
+02/04/20 03:07:24 Xvnc version TightVNC-1.3.10
+02/04/20 03:07:24 Copyright (C) 2000-2009 TightVNC Group
+02/04/20 03:07:24 Copyright (C) 1999 AT&T Laboratories Cambridge
+02/04/20 03:07:24 All Rights Reserved.
+02/04/20 03:07:24 See http://www.tightvnc.com/ for information on TightVNC
+02/04/20 03:07:24 Desktop name 'X' (sairamaraju2c.mylabserver.com:1)
+02/04/20 03:07:24 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+02/04/20 03:07:24 Listening for VNC connections on TCP port 5901
 Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
 Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
 xrdb: No such file or directory
 xrdb: can't open file '/home/cloud_user/.Xresources'
 /usr/bin/startxfce4: X server already running on display :1
 Xlib:  extension "RANDR" missing on display ":1".
-gpg-agent[1330]: WARNING: "--write-env-file" is an obsolete option - it has no effect
-gpg-agent[1332]: gpg-agent (GnuPG) 2.2.4 started
+gpg-agent[1362]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1363]: gpg-agent (GnuPG) 2.2.4 started
 
-(xfce4-session:1243): xfce4-session-WARNING **: 02:16:10.248: gpg-agent returned no PID in the variables
+(xfce4-session:1320): xfce4-session-WARNING **: 03:07:26.428: gpg-agent returned no PID in the variables
 
-(xfce4-session:1243): xfce4-session-WARNING **: 02:16:10.250: xfsm_manager_load_session: Something wrong with /home/cloud_user/.cache/sessions/xfce4-session-sairamaraju2c.mylabserver.com:1, Does it exist? Permissions issue?
-Xlib:  extension "RANDR" missing on display ":1.0".
+(xfce4-session:1320): xfce4-session-WARNING **: 03:07:26.430: xfsm_manager_load_session: Something wrong with /home/cloud_user/.cache/sessions/xfce4-session-sairamaraju2c.mylabserver.com:1, Does it exist? Permissions issue?
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
 
-(xfsettingsd:1351): xfsettingsd-CRITICAL **: 02:16:10.454: No RANDR extension found in display :1.0. Display settings won't be applied.
+(xfsettingsd:1415): xfsettingsd-CRITICAL **: 03:07:26.701: No RANDR extension found in display :1.0. Display settings won't be applied.
 Xlib:  extension "XInputExtension" missing on display ":1.0".
 
-(xfsettingsd:1351): xfsettingsd-CRITICAL **: 02:16:10.456: XI is not present.
+(xfsettingsd:1415): xfsettingsd-CRITICAL **: 03:07:26.704: XI is not present.
 
-(xfsettingsd:1351): xfsettingsd-CRITICAL **: 02:16:10.456: Failed to initialize the Xkb extension.
+(xfsettingsd:1415): xfsettingsd-CRITICAL **: 03:07:26.705: Failed to initialize the Xkb extension.
 
-(xfsettingsd:1351): xfsettingsd-CRITICAL **: 02:16:10.456: Failed to initialize the Accessibility extension.
-
-(xfce4-session:1243): Gtk-WARNING **: 02:16:10.708: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-session:1243): Gtk-WARNING **: 02:16:10.708: Unable to locate theme engine in module_path: "pixmap",
-
-(xfdesktop:1343): Gtk-WARNING **: 02:16:10.709: Unable to locate theme engine in module_path: "pixmap",
-
-(xfdesktop:1343): Gtk-WARNING **: 02:16:10.709: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): Gtk-WARNING **: 02:16:10.710: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-session:1243): Gtk-WARNING **: 02:16:10.714: Unable to locate theme engine in module_path: "pixmap",
-
-(xfdesktop:1343): Gtk-WARNING **: 02:16:10.715: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): Gtk-WARNING **: 02:16:10.716: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): Gtk-WARNING **: 02:16:10.717: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-session:1243): Gtk-WARNING **: 02:16:10.761: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-session:1243): Gtk-WARNING **: 02:16:10.761: Unable to locate theme engine in module_path: "pixmap",
-
-(xfdesktop:1343): Gtk-WARNING **: 02:16:10.761: Unable to locate theme engine in module_path: "pixmap",
-
-(xfdesktop:1343): Gtk-WARNING **: 02:16:10.761: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): Gtk-WARNING **: 02:16:10.763: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): Gtk-WARNING **: 02:16:10.763: Unable to locate theme engine in module_path: "pixmap",
-
-(Thunar:1340): Gtk-WARNING **: 02:16:10.772: Unable to locate theme engine in module_path: "pixmap",
-
-(Thunar:1340): Gtk-WARNING **: 02:16:10.772: Unable to locate theme engine in module_path: "pixmap",
-
-(Thunar:1340): Gtk-WARNING **: 02:16:10.772: Unable to locate theme engine in module_path: "pixmap",
-
-(Thunar:1340): Gtk-WARNING **: 02:16:10.774: Unable to locate theme engine in module_path: "pixmap",
-
-(Thunar:1340): Gtk-WARNING **: 02:16:10.774: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-panel:1338): Gtk-WARNING **: 02:16:10.822: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-panel:1338): Gtk-WARNING **: 02:16:10.823: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-panel:1338): Gtk-WARNING **: 02:16:10.823: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-panel:1338): Gtk-WARNING **: 02:16:10.834: Unable to locate theme engine in module_path: "pixmap",
-
-(xfce4-panel:1338): Gtk-WARNING **: 02:16:10.835: Unable to locate theme engine in module_path: "pixmap",
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: The display does not support the XRender extension.
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: The display does not support the XRandr extension.
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: The display does not support the XComposite extension.
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: The display does not support the XDamage extension.
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: The display does not support the XFixes extension.
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:11.336: Compositing manager disabled.
-
-(xfwm4:1334): Gtk-WARNING **: 02:16:11.361: Unable to locate theme engine in module_path: "pixmap",
-
-(xfwm4:1334): Gtk-WARNING **: 02:16:11.361: Unable to locate theme engine in module_path: "pixmap",
-
-(xfwm4:1334): Gtk-WARNING **: 02:16:11.362: Unable to locate theme engine in module_path: "pixmap",
-
-(xfwm4:1334): Gtk-WARNING **: 02:16:11.363: Unable to locate theme engine in module_path: "pixmap",
-
-(xfwm4:1334): Gtk-WARNING **: 02:16:11.373: Unable to locate theme engine in module_path: "pixmap",
-
-(xfsettingsd:1351): xfsettingsd-WARNING **: 02:16:11.436: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
-xfwm4-Message: 02:16:12.037: Unsupported keyboard modifier '<Super>Tab'
-
-(xfwm4:1334): xfwm4-WARNING **: 02:16:12.046: Cannot find visual format on screen 0
-Xlib:  extension "RANDR" missing on display ":1.0".
+(xfsettingsd:1415): xfsettingsd-CRITICAL **: 03:07:26.705: Failed to initialize the Accessibility extension.
 Xlib:  extension "RANDR" missing on display ":1.0".
 
-(wrapper-1.0:1507): Gtk-WARNING **: 02:16:12.123: Unable to locate theme engine in module_path: "pixmap",
+(xfdesktop:1373): Gtk-WARNING **: 03:07:26.793: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1507): Gtk-WARNING **: 02:16:12.123: Unable to locate theme engine in module_path: "pixmap",
+(xfdesktop:1373): Gtk-WARNING **: 03:07:26.793: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1507): Gtk-WARNING **: 02:16:12.124: Unable to locate theme engine in module_path: "pixmap",
+(xfdesktop:1373): Gtk-WARNING **: 03:07:26.794: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1507): Gtk-WARNING **: 02:16:12.125: Unable to locate theme engine in module_path: "pixmap",
+(xfce4-session:1320): Gtk-WARNING **: 03:07:26.795: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1507): Gtk-WARNING **: 02:16:12.139: Unable to locate theme engine in module_path: "pixmap",
+(Thunar:1371): Gtk-WARNING **: 03:07:26.795: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1506): Gtk-WARNING **: 02:16:12.209: Unable to locate theme engine in module_path: "pixmap",
+(Thunar:1371): Gtk-WARNING **: 03:07:26.796: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1506): Gtk-WARNING **: 02:16:12.223: Unable to locate theme engine in module_path: "pixmap",
+(Thunar:1371): Gtk-WARNING **: 03:07:26.796: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1506): Gtk-WARNING **: 02:16:12.224: Unable to locate theme engine in module_path: "pixmap",
+(xfsettingsd:1415): Gtk-WARNING **: 03:07:26.797: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1506): Gtk-WARNING **: 02:16:12.274: Unable to locate theme engine in module_path: "pixmap",
+(xfsettingsd:1415): Gtk-WARNING **: 03:07:26.799: Unable to locate theme engine in module_path: "pixmap",
 
-(wrapper-1.0:1506): Gtk-WARNING **: 02:16:12.275: Unable to locate theme engine in module_path: "pixmap",
+(xfsettingsd:1415): Gtk-WARNING **: 03:07:26.799: Unable to locate theme engine in module_path: "pixmap",
 
-** (xfdesktop:1343): WARNING **: 02:16:12.958: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+(xfce4-session:1320): Gtk-WARNING **: 03:07:26.800: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1320): Gtk-WARNING **: 03:07:26.801: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1371): Gtk-WARNING **: 03:07:26.823: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1371): Gtk-WARNING **: 03:07:26.823: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1320): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1373): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1320): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1373): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1415): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1415): Gtk-WARNING **: 03:07:26.824: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1369): Gtk-WARNING **: 03:07:26.866: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1369): Gtk-WARNING **: 03:07:26.866: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1369): Gtk-WARNING **: 03:07:26.866: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1369): Gtk-WARNING **: 03:07:26.868: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1369): Gtk-WARNING **: 03:07:26.868: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: The display does not support the XRender extension.
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: The display does not support the XRandr extension.
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: The display does not support the XComposite extension.
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: The display does not support the XDamage extension.
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: The display does not support the XFixes extension.
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.021: Compositing manager disabled.
+
+(xfwm4:1365): Gtk-WARNING **: 03:07:27.024: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1365): Gtk-WARNING **: 03:07:27.024: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1365): Gtk-WARNING **: 03:07:27.025: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1365): Gtk-WARNING **: 03:07:27.026: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1365): Gtk-WARNING **: 03:07:27.026: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1415): xfsettingsd-WARNING **: 03:07:27.135: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(wrapper-1.0:1479): Gtk-WARNING **: 03:07:27.511: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1479): Gtk-WARNING **: 03:07:27.512: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1479): Gtk-WARNING **: 03:07:27.512: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1479): Gtk-WARNING **: 03:07:27.532: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1479): Gtk-WARNING **: 03:07:27.533: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 03:07:27.552: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:1365): xfwm4-WARNING **: 03:07:27.554: Cannot find visual format on screen 0
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(wrapper-1.0:1486): Gtk-WARNING **: 03:07:27.582: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1486): Gtk-WARNING **: 03:07:27.583: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1486): Gtk-WARNING **: 03:07:27.583: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1486): Gtk-WARNING **: 03:07:27.587: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1486): Gtk-WARNING **: 03:07:27.587: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfdesktop:1373): WARNING **: 03:07:28.764: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'

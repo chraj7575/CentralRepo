@@ -95,3 +95,54 @@ git checkout dev
 git branch -v
 git commit -m "first commit"
 git status
+git add --all
+git status
+git commit -m "first commit"
+git branch -v
+git checkout master 
+git branch -v
+git branch master
+git checkout branch master
+git branch -v
+git checkout master
+git branch -v
+git checkout master
+git branch -v
+git push origin dev
+git pull origin dev
+git pull enterprise dev
+whereis git
+ls -lrt  /var/lib/jenkins/workspace/maven-test
+ls -lrt
+cd CentralRepo/
+lss -lrt
+cd /var/lib/jenkins/workspace
+ls -lrt
+cd  maven-test/
+ls -lrt
+cd src/
+ls -lrt
+cd ..
+ls -lrt
+cat pom.xml 
+ls -lrt
+clear
+sudo su 
+ansible --version
+sudo apt install pip
+pip -- version
+sudo apt install python-pip
+pip install ansible
+ansible --version
+sudo apt install ansible
+ansible --version
+ansible --help
+man ansible
+cd /etc/ansible/
+ls
+ls -l
+cat ansible.cfg 
+cd ~
+git status
+vi file.txt
+git status
