@@ -146,3 +146,69 @@ cd ~
 git status
 vi file.txt
 git status
+git add --all
+git status
+git commit -m "test file"
+git branch -v
+git checkout master
+git branch -v
+git push origin master
+git pull origin master
+git branch -v
+git checkout branch test
+ll
+base=https://github.com/docker/machine/releases/download/v0.16.0 &&   mkdir -p "$HOME/bin" &&   curl -L $base/docker-machine-Windows-x86_64.exe > "$HOME/bin/docker-machine.exe" &&   chmod +x "$HOME/bin/docker-machine.exe"
+docker-machine version
+sudo snap install docker
+docker-machine version
+/etc/bash_completion.d
+/usr/local/etc/bash_completion.d
+sudo apt-get update
+sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo apt-key fingerprint 0EBFCD88
+pub   rsa4096 2017-02-22 [SCEA]
+uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
+sub   rsa4096 2017-02-22 [S]sudo apt-key fingerprint 0EBFCD88
+pub   rsa4096 2017-02-22 [SCEA]
+uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
+sub   rsa4096 2017-02-22 [S]
+sudo apt-key fingerprint 0EBFCD88
+pub   rsa4096 2017-02-22 [SCEA]
+uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
+sub   rsa4096 2017-02-22 [S]
+sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+apt-cache madison docker-ce
+sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=<VERSION_STRING> containerd.io
+apt-cache madison docker-ce
+sudo docker run hello-world
+sudo systemctl status docker
+sudo docker images
+sudo docker pull unbuntu
+su -
+sudo su -
+ll
+ansible --version
+sudo apt install vagrant
+vagrant --version
+vagrant up
+vagrant init
+vagrant up
+subl .
+sudo snap install sublime-text
+--classic
+sudo snap install sublime-text
+vagrant up
+open
+ll
+cat Vagrantfile 
+ll
+sudo su -
+pwd
+ll
+vi file1.txt
+git status
