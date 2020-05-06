@@ -212,3 +212,23 @@ pwd
 ll
 vi file1.txt
 git status
+git add --all
+git status
+git commit -m"test commit"
+git status
+git checkout -v
+git checkout-v
+git --help
+git checkout -b
+git checkout -v
+git branch
+git checkout dev
+git push dev
+git clone https://github.com/chraj7575/CentralRepo.git
+git push file1.txt
+git push origin dev
+git checkout branch rajesh
+git branch rajesh
+git checkout
+vi text.txt
+git status
