@@ -232,3 +232,26 @@ git branch rajesh
 git checkout
 vi text.txt
 git status
+git add .
+git commit -m "rajeseh"
+git checkout 
+git branch
+git checkout rajesh
+git branch
+git checkout branch rajesh
+git checkout rajesh
+git push origin rajesh
+git branch
+git clone sairamaraju2d.mylabserver.com
+sairamaraju2d.mylabserver.com
+git clone git@github.com:chraj7575/Jenkins.git
+ssh-keygen
+git clone git@github.com:chraj7575/Jenkins.git
+cd .ssh/
+ll
+cat id_rsa.pub 
+git clone git@github.com:chraj7575/Jenkins.git
+cd ~
+ll
+vi ssh_keys.h
+git status

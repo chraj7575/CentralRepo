@@ -21,7 +21,7 @@ $cloud_user
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1588739438,,"wq!"
+|2,0,1594452840,,"wq!"
 :q
 |2,0,1550871316,,"q"
 :x
@@ -204,34 +204,44 @@ $cloud_user
 |3,1,36,0,1,0,1550871207,":"
 
 # File marks:
-'0  1  7  ~/text.txt
-|4,48,1,7,1588739438,"~/text.txt"
-'1  1  10  ~/file1.txt
-|4,49,1,10,1588738294,"~/file1.txt"
-'2  2  0  ~/file.txt
-|4,50,2,0,1585799823,"~/file.txt"
-'3  11  32  /etc/systemd/system/vncserver@.service
-|4,51,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+'0  5  0  ~/ssh_keys.h
+|4,48,5,0,1594452840,"~/ssh_keys.h"
+'1  1  7  ~/text.txt
+|4,49,1,7,1588739438,"~/text.txt"
+'2  1  10  ~/file1.txt
+|4,50,1,10,1588738294,"~/file1.txt"
+'3  2  0  ~/file.txt
+|4,51,2,0,1585799823,"~/file.txt"
 '4  11  32  /etc/systemd/system/vncserver@.service
-|4,52,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
-'5  11  0  /etc/systemd/system/vncserver@.service
-|4,53,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+|4,52,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+'5  11  32  /etc/systemd/system/vncserver@.service
+|4,53,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
 '6  11  0  /etc/systemd/system/vncserver@.service
 |4,54,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
-'7  1  9  /etc/systemd/system/vncserver@.service
-|4,55,1,9,1550871022,"/etc/systemd/system/vncserver@.service"
-'8  41  9  /etc/systemd/system/vncserver@.service
-|4,56,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
-'9  1  9  /etc/systemd/system/vncserver@.service
-|4,57,1,9,1550871022,"/etc/systemd/system/vncserver@.service"
+'7  11  0  /etc/systemd/system/vncserver@.service
+|4,55,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+'8  1  9  /etc/systemd/system/vncserver@.service
+|4,56,1,9,1550871022,"/etc/systemd/system/vncserver@.service"
+'9  41  9  /etc/systemd/system/vncserver@.service
+|4,57,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
 
 # Jumplist (newest first):
+-'  5  0  ~/ssh_keys.h
+|4,39,5,0,1594452840,"~/ssh_keys.h"
+-'  1  0  ~/ssh_keys.h
+|4,39,1,0,1594452795,"~/ssh_keys.h"
+-'  1  7  ~/text.txt
+|4,39,1,7,1588739438,"~/text.txt"
 -'  1  7  ~/text.txt
 |4,39,1,7,1588739438,"~/text.txt"
 -'  1  10  ~/file1.txt
 |4,39,1,10,1588738294,"~/file1.txt"
 -'  1  10  ~/file1.txt
 |4,39,1,10,1588738294,"~/file1.txt"
+-'  1  10  ~/file1.txt
+|4,39,1,10,1588738294,"~/file1.txt"
+-'  1  10  ~/file1.txt
+|4,39,1,10,1588738294,"~/file1.txt"
 -'  2  0  ~/file.txt
 |4,39,2,0,1585799823,"~/file.txt"
 -'  2  0  ~/file.txt
@@ -240,6 +250,22 @@ $cloud_user
 |4,39,2,0,1585799823,"~/file.txt"
 -'  2  0  ~/file.txt
 |4,39,2,0,1585799823,"~/file.txt"
+-'  2  0  ~/file.txt
+|4,39,2,0,1585799823,"~/file.txt"
+-'  2  0  ~/file.txt
+|4,39,2,0,1585799823,"~/file.txt"
+-'  2  0  ~/file.txt
+|4,39,2,0,1585799823,"~/file.txt"
+-'  2  0  ~/file.txt
+|4,39,2,0,1585799823,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1585799809,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1585799809,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1585799809,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1585799809,"~/file.txt"
 -'  1  0  ~/file.txt
 |4,39,1,0,1585799809,"~/file.txt"
 -'  1  0  ~/file.txt
@@ -265,6 +291,34 @@ $cloud_user
 -'  11  32  /etc/systemd/system/vncserver@.service
 |4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
 -'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871316,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
 |4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
 -'  11  32  /etc/systemd/system/vncserver@.service
 |4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
@@ -280,6 +334,26 @@ $cloud_user
 |4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
 -'  11  32  /etc/systemd/system/vncserver@.service
 |4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  32  /etc/systemd/system/vncserver@.service
+|4,39,11,32,1550871208,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
+-'  11  0  /etc/systemd/system/vncserver@.service
+|4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
 -'  11  0  /etc/systemd/system/vncserver@.service
 |4,39,11,0,1550871166,"/etc/systemd/system/vncserver@.service"
 -'  11  0  /etc/systemd/system/vncserver@.service
@@ -344,90 +418,23 @@ $cloud_user
 |4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
 -'  16  8  /etc/systemd/system/vncserver@.service
 |4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  1  0  /etc/systemd/system/vncserver@.service
-|4,39,1,0,1550871089,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
--'  41  9  /etc/systemd/system/vncserver@.service
-|4,39,41,9,1550871022,"/etc/systemd/system/vncserver@.service"
+-'  16  8  /etc/systemd/system/vncserver@.service
+|4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
+-'  16  8  /etc/systemd/system/vncserver@.service
+|4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
+-'  16  8  /etc/systemd/system/vncserver@.service
+|4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
+-'  16  8  /etc/systemd/system/vncserver@.service
+|4,39,16,8,1550871155,"/etc/systemd/system/vncserver@.service"
 
 # History of marks within files (newest to oldest):
+
+> ~/ssh_keys.h
+	*	1594452834	0
+	"	5	0
+	^	5	0
+	.	4	13
+	+	4	13
 
 > ~/text.txt
 	*	1588739433	0
