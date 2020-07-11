@@ -255,3 +255,14 @@ cd ~
 ll
 vi ssh_keys.h
 git status
+git add .
+git status
+git commit -m "Testing the ssh-keys"
+git branch
+git push origin dev
+ps -ef|grep java
+alias 
+coh
+git status
+vi text .txt
+git status
